@@ -1,0 +1,93 @@
+[
+  {
+    "id": "01",
+    "total_view": 10,
+    "title": "Are the HTML tags and elements the same thing??",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "No. HTML elements are defined by a starting tag, may contain some content and a closing tag.For example, <h1>Heading 1</h1> is a HTML element but just <h1> is a starting tag and </h1> is a closing tag."
+  },
+  {
+    "id": "02",
+    "total_view": 20,
+    "title": " What are tags and attributes in HTML?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. For example, <p align=” center”>Interview questions</p>, in this the ‘align’ is the attribute using which we will align the paragraph to show in the center of the view."
+  },
+  {
+    "id": "03",
+    "total_view": 45,
+    "title": " What is the advantage of collapsing white space?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "In HTML, a blank sequence of whitespace characters is treated as a single space character, Because the browser collapses multiple spaces into a single space character and this helps a developer to indent lines of text without worrying about multiple spaces and maintain readability and understandability of HTML codes."
+  },
+  {
+    "id": "04",
+    "total_view": 488,
+    "title": "What is the ‘class’ attribute in HTML?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "The class attribute is used to specify the class name for an HTML element. Multiple elements in HTML can have the same class value. Also, it is mainly used to associate the styles written in the stylesheet with the HTML elements"
+  },
+  {
+    "id": "05",
+    "total_view": 488,
+    "title": "How to optimize website assets loading?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "Every web page has different components to display the intended content and a specific UI. But still, there are few things which are templated and are globally accepted way to structure the web page, such as header: Stores the starting information about the web page."
+  },
+  {
+    "id": "06",
+    "total_view": 25,
+    "title": "What is the significance of <head> and <body> tag in HTML?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "<head> tag provides the information about the document. It should always be enclosed in the <html> tag. This tag contains the metadata about the webpage and the tags which are enclosed by head tag like <link>, <meta>, <style>, <script>, etc. are not displayed on the web page. Also, there can be only 1 <head> tag in the entire Html document and will always be before the <body> tag. <body> tag defines the body of the HTML document. It should always be enclosed in the <html> tag. All the contents which needs to be displayed on the web page like images, text, audio, video, contents, using elements like <p>, <img>, <audio>, <heading>, <video>, <div>, etc. will always be enclosed by the <body> tag. Also, there can be only 1 body element in an HTML document and will always be after the <head> tag."
+  },
+  {
+    "id": "07",
+    "total_view": 25,
+    "title": " In how many ways can we position an HTML element? Or what are the permissible values of the position attribute?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "There are mainly 7 values of position attribute that can be used to position an HTML element: static: Default value. Here the element is positioned according to the normal flow of the document.absolute: Here the element is positioned relative to its parent element. The final position is determined by the values of left, right, top, bottom.fixed: This is similar to absolute except here the elements are positioned relative to the <html> element. relative: Here the element is positioned according to the normal flow of the document and positioned relative to its original/ normal position. initial: This resets the property to its default value.inherit: Here the element inherits or takes the property of its parent."
+  },
+  {
+    "id": "08",
+    "total_view": 25,
+    "title": " In how many ways you can display HTML elements?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "inline: Using this we can display any block-level element as an inline element. The height and width attribute values of the element will not affect. block: using this, we can display any inline element as a block-level element. inline-block: This property is similar to inline, except by using the display as inline-block, we can actually format the element using height and width values.flex: It displays the container and element as a flexible structure. It follows flexbox property.inline-flex: It displays the flex container as an inline element while its content follows the flexbox properties.grid: It displays the HTML elements as a grid container. none: Using this property we can hide the HTML element."
+  },
+  {
+    "id": "09",
+    "total_view": 25,
+    "title": "What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element.",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "When we use the attribute “visibility: hidden” for an HTML element then that element will be hidden from the webpage but still takes up space. Whereas, if we use the “display: none” attribute for an HTML element then the element will be hidden, and also it won’t take up any space on the webpage."
+  },
+  {
+    "id": "10",
+    "total_view": 25,
+    "title": " How to specify the link in HTML and explain the target attribute?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "HTML provides a hyperlink - <a> tag to specify the links in a webpage. The ‘href’ attribute is used to specify the link and the ‘target’ attribute is used to specify, where do we want to open the linked document. The ‘target’ attribute can have the following values:self: This is a default value. It opens the document in the same window or tab as it was clicked._blank: It opens the document in a new window or tab._parent: It opens the document in a parent frame. _top: It opens the document in a full-body window."
+  },
+  {
+    "id": "11",
+    "total_view": 25,
+    "title": " In how many ways can we specify the CSS styles for the HTML element?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "There are three ways in which we can specify the styles for HTML elements:Inline: Here we use the ‘style’ attribute inside the HTML element.Internal: Here we use the <style> tag inside the <head> tag. To apply the style we bind the elements using ‘id’ or ‘class’ attributes.External: Here we use the <link> tag inside <head> tag to reference the CSS file into our HTML code. Again the binding between elements and styles is done using ‘id’ or ‘class’ attributes."
+  },
+  {
+    "id": "12",
+    "total_view": 25,
+    "title": "What is the significance of <head> and <body> tag in HTML?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "<head> tag provides the information about the document. It should always be enclosed in the <html> tag. This tag contains the metadata about the webpage and the tags which are enclosed by head tag like <link>, <meta>, <style>, <script>, etc. are not displayed on the web page. Also, there can be only 1 <head> tag in the entire Html document and will always be before the <body> tag. <body> tag defines the body of the HTML document. It should always be enclosed in the <html> tag. All the contents which needs to be displayed on the web page like images, text, audio, video, contents, using elements like <p>, <img>, <audio>, <heading>, <video>, <div>, etc. will always be enclosed by the <body> tag. Also, there can be only 1 body element in an HTML document and will always be after the <head> tag."
+  },
+  {
+    "id": "13",
+    "total_view": 25,
+    "title": "Difference between link tag <link> and anchor tag <a>?",
+    "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "The anchor tag <a> is used to create a hyperlink to another webpage or to a certain part of the webpage and these links are clickable, whereas, link tag <link> defines a link between a document and an external resource and these are not clickable."
+  }
+]
