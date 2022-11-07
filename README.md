@@ -1,4 +1,4 @@
 # programming-path-server
 
->>> Vercel Setup
+>> Vercel Setup
   --Go to vercel doc >cli
