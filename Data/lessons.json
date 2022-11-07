@@ -1,6 +1,7 @@
 [
   {
     "id": "01",
+    "course_id": 101,
     "total_view": 10,
     "title": "Are the HTML tags and elements the same thing??",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -8,6 +9,7 @@
   },
   {
     "id": "02",
+    "course_id": 101,
     "total_view": 20,
     "title": " What are tags and attributes in HTML?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -15,6 +17,7 @@
   },
   {
     "id": "03",
+    "course_id": 101,
     "total_view": 45,
     "title": " What is the advantage of collapsing white space?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -22,6 +25,7 @@
   },
   {
     "id": "04",
+    "course_id": 101,
     "total_view": 488,
     "title": "What is the ‘class’ attribute in HTML?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -29,6 +33,7 @@
   },
   {
     "id": "05",
+    "course_id": 101,
     "total_view": 488,
     "title": "How to optimize website assets loading?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -36,6 +41,7 @@
   },
   {
     "id": "06",
+    "course_id": 101,
     "total_view": 25,
     "title": "What is the significance of <head> and <body> tag in HTML?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -43,6 +49,7 @@
   },
   {
     "id": "07",
+    "course_id": 101,
     "total_view": 25,
     "title": " In how many ways can we position an HTML element? Or what are the permissible values of the position attribute?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -50,6 +57,7 @@
   },
   {
     "id": "08",
+    "course_id": 101,
     "total_view": 25,
     "title": " In how many ways you can display HTML elements?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -57,6 +65,7 @@
   },
   {
     "id": "09",
+    "course_id": 101,
     "total_view": 25,
     "title": "What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element.",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -64,6 +73,7 @@
   },
   {
     "id": "10",
+    "course_id": 101,
     "total_view": 25,
     "title": " How to specify the link in HTML and explain the target attribute?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -71,6 +81,7 @@
   },
   {
     "id": "11",
+    "course_id": 101,
     "total_view": 25,
     "title": " In how many ways can we specify the CSS styles for the HTML element?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -78,6 +89,7 @@
   },
   {
     "id": "12",
+    "course_id": 101,
     "total_view": 25,
     "title": "What is the significance of <head> and <body> tag in HTML?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
@@ -85,9 +97,186 @@
   },
   {
     "id": "13",
+    "course_id": 101,
     "total_view": 25,
     "title": "Difference between link tag <link> and anchor tag <a>?",
     "image_url": "https://i.postimg.cc/mrTdRV3j/html-intro.png",
+    "details": "JavaScript is a very powerful client-side scripting language. JavaScript is used mainly for enhancing the interaction of a user with the webpage. In other words, you can make your webpage more lively and interactive, with the help of JavaScript. JavaScript is also being used widely in game development and Mobile application development."
+  },
+  {
+    "id": "14",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "What is JavaScript?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
     "details": "The anchor tag <a> is used to create a hyperlink to another webpage or to a certain part of the webpage and these links are clickable, whereas, link tag <link> defines a link between a document and an external resource and these are not clickable."
+  },
+  {
+    "id": "15",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "Enumerate the differences between Java and JavaScript?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Java is a complete programming language. In contrast, JavaScript is a coded program that can be introduced to HTML pages. These two languages are not at all inter-dependent and are designed for different intent. Java is an object-oriented programming (OOPS) or structured programming languages like C++ or C, whereas JavaScript is a client-side scripting language."
+  },
+  {
+    "id": "16",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "What is the use of isNaN function?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "isNan function returns true if the argument is not a number; otherwise, it is false."
+  },
+  {
+    "id": "17",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "Which is faster between JavaScript and an ASP script?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "JavaScript is faster. JavaScript is a client-side language,, and thus it does not need the assistance of the webserver to execute. On the other hand, ASP is a server-side language and hence is always slower than JavaScript. Javascript now is also a server-side language (nodejs)."
+  },
+  {
+    "id": "18",
+    "course_id": 102,
+    "total_view": 25,
+    "title": " What is negative Infinity?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Negative Infinity is a number in JavaScript which can be derived by dividing negative number by zero."
+  },
+  {
+    "id": "19",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "Which company developed JavaScript?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Netscape is the software company that developed JavaScript."
+  },
+  {
+    "id": "20",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "What are undeclared and undefined variables?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Undeclared variables are those that do not exist in a program and are not declared. If the program tries to read the value of an undeclared variable, then a runtime error is encountered.Undefined variables are those that are declared in the program but have not been given any value. If the program tries to read the value of an undefined variable, an undefined value is returned."
+  },
+  {
+    "id": "21",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "What are global variables? How are these variable declared?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Global variables are available throughout the length of the code so that it has no scope. The var keyword is used to declare a local variable or object. If the var keyword is omitted, a global variable is declared.Example:// Declare a global: globalVariable = “Test”;The problems faced by using global variables are the clash of variable names of local and global scope. Also, it is difficult to debug and test the code that relies on global variables."
+  },
+  {
+    "id": "22",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "What is ‘this’ keyword in JavaScript?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "‘This’ keyword refers to the object from where it was called."
+  },
+  {
+    "id": "23",
+    "course_id": 102,
+    "total_view": 25,
+    "title": "What is the difference between ViewState and SessionState?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "‘ViewState’ is specific to a page in a session.‘SessionState’ is specific to user-specific data that can be accessed across all web application pages."
+  },
+  {
+    "id": "24",
+    "course_id": 103,
+    "total_view": 25,
+    "title": "What are the features of React?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "JSX:  JSX is a syntax extension to JavaScript. It is used with React to describe what the user interface should look like. By using JSX, we can write HTML structures in the same file that contains JavaScript code."
+  },
+  {
+    "id": "25",
+    "course_id": 103,
+    "total_view": 25,
+    "title": "What is components?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Components: Components are the building blocks of any React application, and a single app usually consists of multiple components. It splits the user interface into independent, reusable parts that can be processed separately."
+  },
+  {
+    "id": "26",
+    "course_id": 103,
+    "total_view": 25,
+    "title": "What is Virtual DOM?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Virtual DOM: React keeps a lightweight representation of the real DOM in the memory, and that is known as the virtual DOM. When the state of an object changes, virtual DOM changes only that object in the real DOM, rather than updating all the objects."
+  },
+  {
+    "id": "27",
+    "course_id": 103,
+    "total_view": 25,
+    "title": "What is One-way data-binding:?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "One-way data-binding: React’s one-way data binding keeps everything modular and fast. A unidirectional data flow means that when designing a React app, you often nest child components within parent components."
+  },
+  {
+    "id": "28",
+    "course_id": 103,
+    "total_view": 25,
+    "title": "What is JSX?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "JSX is a syntax extension of JavaScript. It is used with React to describe what the user interface should look like. By using JSX, we can write HTML structures in the same file that contains JavaScript code."
+  },
+  {
+    "id": "29",
+    "course_id": 103,
+    "total_view": 25,
+    "title": "Can web browsers read JSX directly? ",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "Web browsers cannot read JSX directly. This is because they are built to only read regular JS objects and JSX is not a regular JavaScript object For a web browser to read a JSX file, the file needs to be transformed into a regular JavaScript object. For this, we use Babel"
+  },
+  {
+    "id": "30",
+    "course_id": 103,
+    "total_view": 25,
+    "title": "What is an event in React?",
+    "image_url": "https://i.postimg.cc/tRBqJHHr/photo-1619410283995-43d9134e7656.jpg",
+    "details": "An event is an action that a user or system may trigger, such as pressing a key, a mouse click, etc.React events are named using camelCase, rather than lowercase in HTML.With JSX, you pass a function as the event handler, rather than a string in HTML."
+  },
+  {
+    "id": "31",
+    "course_id": 104,
+    "total_view": 25,
+    "title": "What Is Git and Why Is It Used?",
+    "image_url": "https://i.postimg.cc/jjjVGDDt/git.png",
+    "details": "Git is an open-distributed version control system that allows developers to track changes to their codebase and collaborate on projects with other developers. Git is typically used for software development, but it can be used for any type of file.When a developer makes a change to a code file, they can commit that change to their local Git repository. Then, they can push their changes to a remote Git repository, such as a server hosted by a company or an open-source project. Other developers can then pull the changes down from the remote repository and incorporate them into their code.And an important thing about Git is that it is a free source and open to anyone."
+  },
+  {
+    "id": "32",
+    "course_id": 104,
+    "total_view": 25,
+    "title": "What is Git?",
+    "image_url": "https://i.postimg.cc/jjjVGDDt/git.png",
+    "details": "Git is a version control system for tracking changes in computer files and is used to help coordinate work among several people on a project while tracking progress over time. In other words, it’s a tool that facilitates source code management in software development.Git favors both programmers and non-technical users by keeping track of their project files. It enables multiple users to work together and handles large projects efficiently. "
+  },
+  {
+    "id": "33",
+    "course_id": 104,
+    "total_view": 25,
+    "title": "What do you understand by the term ‘Version Control System’?",
+    "image_url": "https://i.postimg.cc/jjjVGDDt/git.png",
+    "details": "A version control system (VCS) records all the changes made to a file or set of data, so a specific version may be called later if needed.This helps ensure that all team members are working on the latest version of the file"
+  },
+  {
+    "id": "34",
+    "course_id": 104,
+    "total_view": 25,
+    "title": "Different types of version control systems",
+    "image_url": "https://i.postimg.cc/jjjVGDDt/git.png",
+    "details": "Local version control systems have a database that stores all file changes under revision control on disc in a special format.Centralized version control systems have a single repository, from which each user receives their working copy.Distributed version control systems contain multiple repositories, and different users can access each one with their working copy."
+  },
+  {
+    "id": "35",
+    "course_id": 104,
+    "total_view": 25,
+    "title": "What language is used in Git?",
+    "image_url": "https://i.postimg.cc/jjjVGDDt/git.png",
+    "details": "Git is a fast and reliable version control system, and the language that makes this possible is ‘C.’ Using C language reduces the overhead of run times, which are common in high-level languages."
   }
 ]
