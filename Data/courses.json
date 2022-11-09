@@ -22,5 +22,17 @@
     "name": "Git",
     "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
     "total": 11
+  },
+  {
+    "id": 105,
+    "name": "CSS",
+    "logo": "https://i.postimg.cc/qMHb2TtJ/CSS3-logo-and-wordmark-svg.png",
+    "total": 4
+  },
+  {
+    "id": 106,
+    "name": "Node Js",
+    "logo": "https://i.postimg.cc/Bb9g5TnY/1200px-Node-js-logo-svg.png",
+    "total": 4
   }
 ]
